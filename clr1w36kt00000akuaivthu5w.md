@@ -157,3 +157,23 @@ Berikut adalah peta jalur untuk menjadi perekayasa data:
 ## Kesimpulan
 
 Perekayasaan Data memainkan peran krusial dalam ekosistem data modern. Dengan penguasaan prinsip-prinsip, keterampilan teknis, dan pengalaman yang tepat, seorang Perekayasa Data dapat memberikan kontribusi besar terhadap keberhasilan pengelolaan dan pemanfaatan data dalam suatu organisasi. Kesadaran akan perubahan teknologi dan kemampuan untuk beradaptasi menjadi kunci kesuksesan dalam dunia yang terus berkembang ini.
+
+## Referensi
+
+* [Image by](https://www.freepik.com/free-photo/data-information-network-system-drawing-concept_18125558.htm#query=data%20pipelines&position=12&from_view=search&track=ais&uuid=f48cba76-8dbe-4d4d-8a37-04547722d98e) [rawpixel.com](http://rawpixel.com) on Freepik
+    
+* **Buku**
+    
+    * **Data Engineering: Concepts, Techniques, and Tools** oleh Michael J. Franklin dan Michael Stonebraker
+        
+    * **Data Engineering: A Practical Guide to Building Data Pipelines** oleh Matei Zaharia dan Andy Konwinski
+        
+    * **Data Engineering in the Age of Big Data** oleh Nickolai Zeldovich dan Bill Chambers
+        
+* **Artikel**
+    
+    * **What is Data Engineering?** oleh Google Cloud Platform
+        
+    * **Data Engineering: A Definition and Overview** oleh Data School
+        
+    * **A Guide to Data Engineering** oleh DataCamp
