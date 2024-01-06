@@ -6,7 +6,7 @@ datePublished: Sat Jan 06 2024 09:55:31 GMT+0000 (Coordinated Universal Time)
 cuid: clr1w36kt00000akuaivthu5w
 slug: apa-itu-perekayasaan-data
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704535711846/75bf9f45-e2fc-47ec-81f8-08012e0b5daf.jpeg
-tags: data-engineering, data-engineer, data-engineering-basics
+tags: indonesia, data-engineering, data-engineer, data-engineering-basics
 
 ---
 
@@ -154,7 +154,7 @@ Berikut adalah peta jalur untuk menjadi perekayasa data:
 * **Sertifikasi:** Dapatkan sertifikasi perekayasaan data untuk meningkatkan keterampilan dan kelayakan Anda.
     
 
-## Kesimpulan
+## Penutup
 
 Perekayasaan Data memainkan peran krusial dalam ekosistem data modern. Dengan penguasaan prinsip-prinsip, keterampilan teknis, dan pengalaman yang tepat, seorang Perekayasa Data dapat memberikan kontribusi besar terhadap keberhasilan pengelolaan dan pemanfaatan data dalam suatu organisasi. Kesadaran akan perubahan teknologi dan kemampuan untuk beradaptasi menjadi kunci kesuksesan dalam dunia yang terus berkembang ini.
 
