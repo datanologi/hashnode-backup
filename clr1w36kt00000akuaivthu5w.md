@@ -5,7 +5,7 @@ seoDescription: "Perekayasaan data adalah disiplin ilmu yang berkaitan dengan pr
 datePublished: Sat Jan 06 2024 09:55:31 GMT+0000 (Coordinated Universal Time)
 cuid: clr1w36kt00000akuaivthu5w
 slug: apa-itu-perekayasaan-data
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704534783839/9ba154eb-6e29-4388-8a83-4557185d6b89.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704535711846/75bf9f45-e2fc-47ec-81f8-08012e0b5daf.jpeg
 tags: data-engineering, data-engineer, data-engineering-basics
 
 ---
